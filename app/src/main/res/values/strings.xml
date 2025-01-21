@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CraftCalculator</string>
+    <string name="exit_input">Выход</string>
+    <string name="result">Результат</string>
+</resources>
